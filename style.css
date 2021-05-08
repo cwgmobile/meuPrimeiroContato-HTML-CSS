@@ -1,0 +1,44 @@
+body {
+    background-attachment:fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(img/mapa_de_degrade.png);
+    font-family:'poppins', sans-serif;
+    margin: auto;
+    
+    
+
+}
+P {
+ font-size: 20PX;	
+}
+.titulo1{
+  font-family: "poppins";
+  font-size:40px;
+  color: rgb(78, 0, 0);
+
+}
+.apresentacao {
+    font-style: italic;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.banner1{
+    width:300px;
+    position: center;
+}
+.fotoperfil{
+    width: 150px;
+}
+.iconesRedesocial{
+    width: 50px;
+    padding: 5px;
+    margin-top: 25px;
+}
+.iconesDirecional{
+    width: 50px;
+    padding: 5px;
+    margin-bottom: 80px;
+    margin-top: 25px;
+}
